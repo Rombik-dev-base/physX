@@ -7,10 +7,12 @@
 #IncludeRegexTransform: 
 
 C:/Users/1285166/CLionProjects/Figures/main.cpp
+windows.h
+-
+math.h
+-
+string
+-
 iostream
--
-GL/glut.h
--
-cmath
 -
 
